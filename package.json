@@ -1,0 +1,27 @@
+{
+  "name": "qa-automation-lab",
+  "version": "1.0.0",
+  "description": "Practice project by Anwar Basha.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anwar-qa/qa-automation-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Anwar-qa/qa-automation-lab/issues"
+  },
+  "homepage": "https://github.com/Anwar-qa/qa-automation-lab#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0"
+  }
+}
